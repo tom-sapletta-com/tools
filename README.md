@@ -44,10 +44,6 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Prismic](https://prismic.io)
 * [Sanity.io](https://www.sanity.io)
 
-## User Generated Content
-
-* [Curalate](https://www.curalate.com/)
-* [Stackla](https://stackla.com/)
  
 ## ECommerce Platforms
 
@@ -55,21 +51,15 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Insite Commerce](http://www.insitesoft.com/)
 * [OrderCloud](https://ordercloud.io/)
 
-## Product Information Management (PIM)
-
-* [Salsify](https://www.salsify.com/)
 
 ## Payments
 
 * [Braintree](https://www.braintreepayments.com/)
 * [Stripe](https://stripe.com/)
 
-## Property Management/Real Estate
-
-* [Sabre](http://www.sabrehospitality.com/)
-* [Yardi](https://www.yardi.com/)
 
 ### Platform as a Service (PaaS)
+
 * [Acquia](https://www.acquia.com/) - Drupal-based platform and hosting 
 
 ## AI, Messaging, Chat, Conversational Interfaces, & Natural Language Processing (NLP)
@@ -88,6 +78,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [Fetchr](https://github.com/yahoo/fetchr)
 
 ### Utilities
+
 * [GulpJS](http://gulpjs.com/)
 
 
@@ -109,7 +100,6 @@ A categorized list of tools, services and systems useful in connected applicatio
 ### Frameworks
 
 * [Vue.js](https://vuejs.org/)
-
 
 ### CSS
 
@@ -153,6 +143,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 ## Voice/VoIP, SMS
 
 * [Twilio](https://www.twilio.com/)
+
 
 ## Email
 

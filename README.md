@@ -103,17 +103,13 @@ A categorized list of tools, services and systems useful in connected applicatio
 
 * [Swagger](http://swagger.io/)
 
+
 ## FrontEnd
 
 ### Frameworks
 
-* React/Flux
-	* [Flux (Facebook)](https://facebook.github.io/flux/docs/overview.html)
-	* [Fluxible (Yahoo)](http://fluxible.io/)
-	* [React (Facebook)](https://facebook.github.io/react/)
-	* [Redux](http://redux.js.org/index.html)
-	* [Vue.js](https://vuejs.org/)
-* [AngularJS](https://angularjs.org/)
+* [Vue.js](https://vuejs.org/)
+
 
 ### CSS
 
@@ -144,6 +140,8 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [TowerData (Rapleaf)](http://intelligence.towerdata.com/) - Email intelligence
  
 ## Credential Management
+
+* [KeePass Password Safe](https://keepass.info/)
 * [Vault](https://www.vaultproject.io/)
 * [Secret Server](https://thycotic.com/products/secret-server/)
 
@@ -183,6 +181,7 @@ A categorized list of tools, services and systems useful in connected applicatio
 * [PingPost (Boberdoo)](http://www.boberdoo.com/ping-post-ping-tree/)
 
 ## Load Testing
+
 * [BlazeMeter](https://www.blazemeter.com/)
 * [Locust.io](http://locust.io/)
 * [Mindtree (Consultant)](http://www.mindtree.com/)
@@ -260,26 +259,29 @@ I use it mostly to store code snippets and reference material for my development
 
 ## [](https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7#internet)Internet
 
-- [Google Chrome](https://www.google.com/chrome/) — My primary browser of choice.
+## Browser
+
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) — first secure browser
+- [Brave Browser](https://brave.com/) - Secure, Fast & Private Web Browser with Adblocker 
+- [Google Chrome](https://www.google.com/chrome/) — only for test purpose
     
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) — My secondary browser.
-    
-- [Min](https://github.com/minbrowser/min) — Min is a minimalist webbrowser. Since Linux doesn't have anything like [Fenetre](https://xn--fent-ipa.re/) for Mac, I use it when I want to browse documentation, follow a tutorial or watch a video side in a Picture in Picture / side by side mode.
-    
+
+## Storage
+
 - [Dropbox](https://www.dropbox.com/?landing=dbv2) — For sharing files.
     
-- [Mailspring](https://getmailspring.com/) — Email client.
     
-- [Corebird](https://corebird.baedert.org/) — Twitter Desktop client
-    
-- [Ramme](https://github.com/terkelg/ramme) — Instagram desktop client
-    
+## Message, Chat, Social Clients    
+
+- [Mailspring](https://getmailspring.com/) — Email client.  
+- [Corebird](https://corebird.baedert.org/) — Twitter Desktop client    
+- [Ramme](https://github.com/terkelg/ramme) — Instagram desktop client    
 - [Caprine](https://github.com/sindresorhus/caprine) — Facebook messenger desktop client
-    
-- [Whatsapp Desktop](https://github.com/Enrico204/Whatsapp-Desktop) — WhatsApp desktop client with built in notifications and system tray integration.
-    
 - [Slack](https://slack.com/) — For chat and engage with communities.
-    
+
+
+## Network 
+
 - [Wireshark](https://www.wireshark.org/) — For network sniffing. Useful when developing to see the communication between multiple applications.
     
 
@@ -332,7 +334,7 @@ I use it mostly to store code snippets and reference material for my development
     
 - [Visual studio code](https://code.visualstudio.com/) — All in one text editor
     
-- vim (for editing files on command line)
+- [vim](https://www.vim.org/) - for editing files on command line
     
 
 ## [](https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7#terminal-setup)Terminal setup
@@ -389,7 +391,7 @@ I use it mostly to store code snippets and reference material for my development
 
 ## [](https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7#development-environment)_Development Environment_
 
-I use Docker extensively in my development environment. I still have common runtimes like go, php, node (with [nvm](https://github.com/creationix/nvm)) and ruby (with [rvm](https://rvm.io/)) installed in the host.
+I use Docker extensively in my development environment. I still have common runtimes like go, php, node with [nvm](https://github.com/creationix/nvm)
 
 - [Docker](https://www.docker.com/)
     
@@ -496,3 +498,8 @@ I use Docker extensively in my development environment. I still have common runt
 - [Firebase tools](https://github.com/firebase/firebase-tools) — The Firebase Command Line Tools
     
 - [dpl](https://github.com/travis-ci/dpl) — Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
+
+
+
+---
++ [edit](https://github.com/tom-sapletta-com/tools/edit/master/README.md)
